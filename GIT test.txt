@@ -1,0 +1,16 @@
+
+PLAN for automation testing final project
+
+7 AUGUST - 1,2,3 (lekciis naxevari) done
+8 AUGUSST- 3,4, -  ar miyurebia
+9 AUGUST - 5 (vuyure), 6,7 done
+10 AUGUST - 8 (DONE), Assertions ( NOT DONE)
+11 AUGUST - HTML/CSS - DOONE, Selenium/Selenide(vuyure) GIT (sayurebli makbvs)
+12 AUGUST - TestNG, POM, POM again
+13 AUGUST - ALLURE
+14 AUGUST - BDD
+
+დამრჩა საყურებელი - GIT/ TestNG/ POM/ POM again/ Allure/ BDD
+
+nino+000777@careboxhealth.com
+nino+979897@careboxhealth.com
